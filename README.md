@@ -1,12 +1,22 @@
-# Python Snake Game Project 🐍🎮
+# 🐍 Python Snake Game Project 🎮
 
-This is a simple Snake Game built using Python.  
+## 📌 Project Overview  
+This **Python Snake Game** is a fun, interactive game built using Python. It follows the classic Snake gameplay, where the player controls a growing snake to collect food while avoiding collisions.  
 
-## Features
-- Classic Snake gameplay  
-- Score tracking  
-- Simple controls  
+## 🚀 Features  
+✅ Classic **Snake Game Mechanics**  
+✅ **Score Tracking** System  
+✅ **Simple Controls** for Smooth Gameplay  
+✅ **Minimalist UI** with Clear Visuals  
+✅ **Cross-Platform** Support (Windows, macOS, Linux)  
 
-## How to Run  
-1. Install Python (if not installed)  
-2. Run the script:  
+## 🛠️ Tech Stack  
+🔹 **Programming Language:** Python 🐍  
+🔹 **Library Used:** `pygame` 🎮  
+
+## 🎯 How to Run the Game  
+### **1️⃣ Install Python (If Not Installed)**
+- Download & Install Python from [python.org](https://www.python.org/downloads/)  
+- Verify installation:  
+  ```sh
+  python --version
