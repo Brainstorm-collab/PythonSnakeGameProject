@@ -1,5 +1,7 @@
 # 🐍 Python Snake Game Project 🎮
 
+![Snake Game Preview](snake_game_preview.png)
+
 ## 📌 Project Overview  
 This **Python Snake Game** is a fun, interactive game built using Python. It follows the classic Snake gameplay, where the player controls a growing snake to collect food while avoiding collisions.  
 
